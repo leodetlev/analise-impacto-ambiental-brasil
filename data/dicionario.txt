@@ -1,0 +1,22 @@
+📊 Dicionário dos dados
+
+Coluna	                =   Descrição = ano	Ano da medição
+estado	                =   Estado brasileiro
+area_desmatada_km2	    =   Área desmatada (km²)
+area_reflorestada_km2	=   Área reflorestada (km²)
+emissao_co2_ton	        =   Emissão estimada de CO₂ (toneladas)
+fonte_dado	            =   Origem da informação
+
+🎯 Contexto do exercício (mentalidade de analista)
+
+Situação (cliente fictício) Uma ONG ambiental quer entender:
+
+1- Como o desmatamento evoluiu ao longo dos ano? (desmatamento_total_ano)
+
+2- Quais estados mais desmatam? (ranking_desmatamento_estado)
+
+3- Se há relação entre desmatamento, reflorestamento e emissão de CO₂?
+
+4- Onde os dados são pouco confiáveis ou incompletos?
+
+5- Eles querem um relatório baseado em dados limpos, com insights claros e gráficos para apoiar decisões e projetos ambientais.
