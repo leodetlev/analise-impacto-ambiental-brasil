@@ -11,7 +11,7 @@ DATA_DIR = BASE_DIR / 'data'
 dados = pd.read_csv(DATA_DIR / 'dados_limpos.csv')
 
 # ===============================
-# 1️⃣ AGREGAÇÕES
+# 1️ AGREGAÇÕES
 # ===============================
 
 analitico_ano_estado = (
@@ -36,7 +36,7 @@ analitico_ano = (
 )
 
 # ===============================
-# 2️⃣ GRÁFICOS
+# 2️ GRÁFICOS
 # ===============================
 
 # Tendência do desmatamento
@@ -72,7 +72,7 @@ plt.title('Reflorestamento vs Emissão de CO₂')
 plt.show()
 
 # ===============================
-# 3️⃣ CORRELAÇÃO
+# 3️ CORRELAÇÃO
 # ===============================
 
 correlacao = analitico_ano[
