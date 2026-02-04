@@ -32,7 +32,7 @@ Os dados utilizados representam medições ambientais anuais por estado brasilei
 5. Agregações por ano e estado
 6. Visualizações e análise de correlação
 
-🔹 Análises Realizadas
+### Análises Realizadas
 
 <p align="center"> <img src="data/desmatamento_anual.webp" width="600"> <br> <em>Evolução do desmatamento total ao longo dos anos</em> </p>
 <br>
