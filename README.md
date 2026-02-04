@@ -36,7 +36,8 @@ Os dados utilizados representam medições ambientais anuais por estado brasilei
 
 - Evolução do desmatamento total ao longo do tempo
 
-  
+![Desmatamento total por ano](data/desmatamento_anual.webp)
+
 - Comparação entre desmatamento e emissão de CO₂
 - Relação entre reflorestamento e emissão de CO₂
 - Matriz de correlação entre variáveis ambientais
