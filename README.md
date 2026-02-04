@@ -38,6 +38,9 @@ Os dados utilizados representam medições ambientais anuais por estado brasilei
 
 ![Desmatamento total por ano](data/desmatamento_anual.webp)
 
-- Comparação entre desmatamento e emissão de CO₂
+- Correlação entre desmatamento e emissão de CO₂
+
+![Correlação entre desmatamento e emissão de CO²](data/desmatamento_vs_emissao_co2.webp)
+
 - Relação entre reflorestamento e emissão de CO₂
 - Matriz de correlação entre variáveis ambientais
