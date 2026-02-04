@@ -34,13 +34,12 @@ Os dados utilizados representam medições ambientais anuais por estado brasilei
 
 🔹 Análises Realizadas
 
-Desmatamento Total por Ano
 <p align="center"> <img src="data/desmatamento_anual.webp" width="600"> <br> <em>Evolução do desmatamento total ao longo dos anos</em> </p>
-Ranking de Desmatamento por Estado
+<br>
 <p align="center"> <img src="data/desmatamento_total_estado.webp" width="600"> <br> <em>Estados com maior área total desmatada no período analisado</em> </p>
-Relação entre Desmatamento e Emissão de CO₂
+<br>
 <p align="center"> <img src="data/desmatamento_vs_emissao_co2.webp" width="600"> <br> <em>Correlação positiva entre desmatamento anual e emissão de CO₂</em> </p>
-Matriz de Correlação entre Variáveis Ambientais
+<br>
 <p align="center"> <img src="data/correlacao.webp" width="550"> <br> <em>Correlação entre desmatamento, reflorestamento e emissão de CO₂ (dados anuais agregados)</em> </p>
 
 A matriz de correlação evidencia uma forte relação positiva entre desmatamento e emissão de CO₂,
